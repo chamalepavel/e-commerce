@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Café Latte",
+    "description": "Café con leche vaporizada",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "title": "Espresso",
+    "description": "Shot de café concentrado",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "title": "Capuccino",
+    "description": "Café con espuma de leche",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "price": 220
+  }
+]
